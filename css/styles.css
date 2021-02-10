@@ -5,13 +5,13 @@ h1 {
   h2 {
     font-style: oblique;
     text-align: left;
-    color: blueviolet;
+    color: #ffffff;
   }
   p {
     color: yellowgreen;
   }
   body {
-    background-color: burlywood;
+    background-color: black;
   }
   .intro {
       font-style: italic;
