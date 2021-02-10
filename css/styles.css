@@ -1,17 +1,17 @@
 h1 {
-    color: darkred;
-    text-align: center;
+    color: green;
+    text-align: right;
   }
   h2 {
-    font-style: italic;
-    text-align: center;
-    color: red;
+    font-style: oblique;
+    text-align: left;
+    color: blueviolet;
   }
   p {
-    color: crimson;
+    color: yellowgreen;
   }
   body {
-    background-color: salmon;
+    background-color: burlywood;
   }
   .intro {
       font-style: italic;
